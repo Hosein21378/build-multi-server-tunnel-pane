@@ -1,0 +1,19 @@
+export {
+  FIXED_INSTALL_SCRIPT,
+  FIXED_INSTALL_SHA256,
+  FIXED_INSTALL_BYTES,
+  FIXED_INSTALL_LINES,
+} from "@/generated/install-script";
+
+export {
+  BROKEN_RAW,
+  BROKEN_REPO_API,
+  BROKEN_REPO,
+  REAL_RAW,
+  REAL_REPO_API,
+  REAL_REPO,
+  FIXED_FILE_NAME,
+  FIXED_VERSION,
+  SCRIPT_SLUG,
+  PATCHED_FIX_COUNT,
+} from "@/lib/site";
